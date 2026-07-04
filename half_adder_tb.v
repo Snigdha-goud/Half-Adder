@@ -24,4 +24,4 @@ module half_adder_tb;
         
         $finish; // End the simulation
     end
-end
+endmodule
